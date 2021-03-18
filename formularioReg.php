@@ -18,7 +18,7 @@
                 <a  href="./cerrar.php" style="text-decoration:none; color: red; font-weight: bold;" >Cerrar Sesión </a>
         </div>
             <header>
-                <h2>Suscripción electrónica a nuestro boletín</h2>
+                <h2>Suscripción EDWIN CUSINANTAMBA</h2>
             </header>
 
             <p> <span>Nota: </span> Este es un formulario de ejemplo en el que los datos aqui se guardaran en una base
